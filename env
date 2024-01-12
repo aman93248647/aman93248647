@@ -1,0 +1,31 @@
+MONGO_URI="mongodb+srv://ravi80113964:SWSfaWIxwyxgsFsx@cluster0.kdad9bu.mongodb.net/?retryWrites=true&w=majority"
+JWT_SECRET="Ydfsrtgfrdfge5dfgrdtydtfhdfgd45gdrf"
+
+whiteListedExtensions=['.apng', '.avif', '.gif', '.jpg', '.jpeg', '.jfif', '.pjpeg', '.pjp', '.png', '.svg', '.pdf', '.webm', '.mkv', '.flv', '.vob', '.ogg', '.ogv', '.gif', '.mov', '.wmv', '.3gp', '.mp4', '.m4p', '.m4v', '.mp3', '.wav']
+
+URL='https://api.profxgroups.com/'
+
+MAILGUN_BASE_URL='https://api.eu.mailgun.net/'
+MAILGUN_DOMAIN=<YOUR_MAILGUN_DOMAIN>
+MAILGUN_API_KEY=<YOUR_MAILGUN_API_KEY>
+SENDER_MAIL = <YOUR_SENDER_MAIL>
+
+ENCRYPTION_KEY='YOUR_ENCRYPTION_KEY'
+
+SUPER_ADMIN_NAME="Crypto Wallet Super Admin"
+SUPER_ADMIN_EMAIL="admin@gmail.com" # you can change your email
+SUPER_ADMIN_PASSWORD="123456789" # you can change your password
+
+STREAM_ID=<YOUR_STREAM_ID>
+MORALIS_API_KEY=<YOUR_MORALIS_API_KEY>
+IS_INSERT_COINS="true"
+
+EVM_HOT_WALLET="0x7302c337d75a260ad2c55d45b526be63ede84003"
+TRON_HOT_WALLET="TMPC72STWjCxHkSBqVLFHkc9mE7drKX2Za"
+BTC_HOT_WALLET="18kHk51YPPMMzy8KUdHVJKWzGjSYf7MtBi"
+
+EVM_HOT_WALLET_KEY="621bd7d4ed729ff0ddf518d3605e97d3e38c8a46c3de53f986afde0b99fe16eb"
+TRON_HOT_WALLET_KEY="F7E8A8CA24D71BD4C4B125B6203A5F5381BBAD41DBB375C183C027743FD85984"
+BTC_HOT_WALLET_KEY="L5hvhuiLmfesKsXgHDECgThUtChRbfqCirue7AGSZCiNV8DLm7HU"
+
+COINGECKO_API_URL = "https://api.coingecko.com/api/v3/"
